@@ -17,12 +17,12 @@ CountryApp, REST Countries API ile ülkeler hakkında çeşitli bilgiler sunan b
 Uygulamayı GitHub deposundan indirin ve Android Studio ile açın. Gradle Sync işlemini tamamlayın ve uygulamayı bir emülatör veya gerçek bir cihazda çalıştırın.
 
  # Kullanım
-Uygulamayı açtığınızda, bir liste halinde tüm ülkeleri göreceksiniz. Bir ülkeye dokunarak detaylı bilgilerini görüntüleyebilirsiniz. Arama çubuğunu kullanarak istediğiniz ülkeyi arayabilirsiniz. Ayarlar menüsünden uygulamanın temasını değiştirebilirsiniz.
+Uygulamayı açtığınızda, bir liste halinde tüm ülkeleri göreceksiniz. Bir ülkeye dokunarak detaylı bilgilerini görüntüleyebilirsiniz.
 
  # Katkıda Bulunma
 Projenize katkıda bulunmak isterseniz, öncelikle GitHub’da bir fork oluşturun ve değişikliklerinizi yapın. Sonra bir pull request gönderin ve kodunuzu inceleyeceğim. Lütfen kodunuzu temiz ve anlaşılır tutun ve yorum eklemeyi unutmayın.
 
  # Lisans
-Bu proje MIT Lisansı altındadır.
+Bu proje Axisting "Volkan Demir" tarafından yapılmıştır..
 
 Umarım bu size yardımcı olur. 😊
